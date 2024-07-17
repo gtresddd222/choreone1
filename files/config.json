@@ -43,7 +43,7 @@
             }
         },
         {
-            "port":3001,
+            "port":6001,
             "listen":"127.0.0.1",
             "protocol":"vless",
             "settings":{
@@ -60,7 +60,7 @@
             }
         },
         {
-            "port":3002,
+            "port":6002,
             "listen":"127.0.0.1",
             "protocol":"vless",
             "settings":{
@@ -90,7 +90,7 @@
             }
         },
         {
-            "port":3003,
+            "port":6003,
             "listen":"127.0.0.1",
             "protocol":"vmess",
             "settings":{
@@ -118,7 +118,7 @@
             }
         },
         {
-            "port":3004,
+            "port":6004,
             "listen":"127.0.0.1",
             "protocol":"trojan",
             "settings":{
@@ -146,7 +146,7 @@
             }
         },
         {
-            "port":3005,
+            "port":6005,
             "listen":"127.0.0.1",
             "protocol":"shadowsocks",
             "settings":{
